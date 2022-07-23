@@ -11,7 +11,7 @@
   "dependencies": {
     "better-queue": "^3.8.10",
     "cli-color": "*",
-    "dateformat": "*",
+    "dateformat": "4.4.2",
     "express": "^4.16.3",
     "geoip-lite": "1.4.5",
     "npm": "^6.4.1",
