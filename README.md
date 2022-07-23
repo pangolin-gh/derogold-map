@@ -6,7 +6,7 @@
 git clone https://github.com/pangolin-gh/derogold-map.git
 cd derogold-map
 npm install
-node ./node_modules/geoip-lite/scripts/updatedb.js
+node ./node_modules/geoip-lite/scripts/updatedb.js license_key=YOUR_LICENSE_KEY
 ```
 
 * The app can be launched with `node init.js`
